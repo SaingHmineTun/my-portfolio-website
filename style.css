@@ -17,8 +17,8 @@
                                       --bg-color: #fff;
                                       --text-color: #0f0c27;
                                       --hover: hsl(260, 100%, 51%);
-                                      --big-font: 3.2rem;
-                                      --medium-font: 1.8rem;
+                                      --big-font: 3.0rem;
+                                      --medium-font: 1.6rem;
                                       --p-font: 0.941rem;
                                     }
                                    
@@ -221,11 +221,10 @@
                                       grid-template-columns: repeat(2, 1fr);
                                       align-items: center;
                                       gap: 2rem;
-                                      margin-top: 4rem;
                                     }
                                    
                                     .skills-img img {
-                                      width: 80%;
+                                      width: 95%;
                                       padding-left: 4rem;
                                       object-position: center;
                                     }
